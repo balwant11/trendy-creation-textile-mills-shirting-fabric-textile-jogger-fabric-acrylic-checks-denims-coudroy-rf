@@ -49,35 +49,35 @@
       {
         "width": 4800,
         "height": 3600,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-v4CYfEcdnybWhHPHEAbLLb0Zzv8A15wpFJMvf3DT43JRK9IgXwzd1IbOUmAhh4987rKfrWaHtvM6vp3WG5Z8zt_8PWy2MpnUJz1oPEVMt8n_Q8TLZbY4LAgsR4Otwn3JsBsUfAAr0Vmoh-w9FKFReeoIBRgfER7iwlDmdht8BuLxZwFdDhkrkJiLE6nIss2v2R1YamPGjfPp9ks-leWTrSHpijIWP7Acjo_ZwIlP1yOHFkC0tgOLcmz1yVM_UPEgJUfo3L8Jd_WWewLwkaJzcNeojPUA4BMfzK7-zMrfHk_fCUhYtWXbvF-al42fgD45CH4CW4AYozp5jz6S8Fne0EyNRQaw66yaYepZzL_7BnRhIDcw3yrrWfj2QFS4KnDP6sB2aDE01IxxAbJKkU9sAqa50_bkxpTRDc7GChAQ1XpA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(3).jpg"
       },
       {
         "width": 1078,
         "height": 1834,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sOORIgaccaZqfn32vegqfF1U3wvBD7GtfwtwcgeLncdTlGDDR-Y7oQF8mtdBfjlVvN_nzTgFFvXT99Fqbwmfci9vfTupUEe3VL4v58Bi0OHXgAZ9FKviJJwQuTQUBAjllrVX_kOnAEziAlG5b0J0ix5whSth2NqeKoZfgr4N35q-ihyl3nwQN69kSN4zWPxlYuUpZ2fqVvvjsRl8QGsmqrewrjluNjIWi05ckw2Wsvijq6Tz7rX840eOKS7rAuaORptbuKM4VfHAnZg6ToFIwr0ppC4ChI1JnZK2OhPrk8K7BEYk2cFbX15ueJl-U5lxSleqjTVvOtQREEYzVNF1oNw52FfqugP6T05RiUcXjP5yemb4AubZMCAVTzJt-61JQcGMcuDM6SXQ6f5Ws1lkbAK_P_cZfjdQut4vnJ8O51OR5M&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(4).jpg"
       },
       {
         "width": 1170,
         "height": 883,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sBHVVvCAzF5kN_7FzRTNegc92k745hRNx_hJbJGas77tr12sOUM_c4n5QM4A6JEpDqv-AVkBlJU-upeWFNysdVDBhc8cIpKBgE4WKIdcst-ns3aXuHShTR3HTwF1BQdYzvHafuzub_gZe7TBJfA9avIXGUj9YkYQtOO9gZRlVvIXBulEejAjezKg-CuNYXUueuaV-Sf4Z4WSBNPeF6Ks1oJDK38GGOvWlRz2VIvdT1EyqzfBKvPBB7Cu8pp9q_CAAYleKaD_89wfBY-BLhgFQCb4eh953kjZ9uaQieAcnzFc1Zx1afwvPRXAsFr6W0hGz4nt-n9I6dXlXcnGP-MJ-RidQFGTUtzET45rbRy_n1onLdGKy_JHaplR7od9L8-_PShdQ4ruL5ARlrVjI_NpslbgZ8MXsi5eqfYTOZB5C4yQ&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(5).jpg"
       },
       {
         "width": 3024,
         "height": 4032,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-terwgsWvHbabxYWXzP3ZvBffq01GC6VRNh3eMhNGQ62xpgqTDnLQr5lin_X81V1UIbO748lY5sov_s7Hf3Bx-vjfnCk79DQ21oL5iET21YORLIwHkPmCfyW80G7n3fmekWA9QLdOISY4C8DCFitFTFl1J_avAf3Beb2ytSBepORWqIzqU72BC1hBvzma-FDIJnI8SiVcz756Yyo-aPeJ1r9uVdTjRbs2tr8hUNyZKdRNqjS4vIx-NFx1b6wF7BVYE1Ts-8qzTFIVGr40ls2XU_44gJtZSArWWa3e-_lRnbRfm-9CT4u9Am7qGUAIUYg5zz3nU-HEA-b4vkQ1y4rkIdNIEqAaTKHuM4MPq8djmXWDDq8h2LQR9qYzxFH3o4IZpA720njSD3Y_9rresg-PCsOKoubjvEfzlEcUORHrttJIhM&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(6).jpg"
       },
       {
         "width": 1080,
         "height": 1280,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sPG_nXp4W2zLm6G7snJtl0_91w2MRhQZU2yJhfbo9h8CXQwijklfKlg4eUebNCAyPwI-GxicrPdivm681F6AqVlweZaPEaNwmgfEh7_3UrcSITfeAMaJLTZDCdqwu6njiTaJ0G8nZOwpzAF-2nxlsr2q7Eb8UnTk-1fPjvZrPKDUYyTG9g7L-bseiPe3vdsXXuBXL7iv0AfuKUFB0JTO96KvYUdrbhu_HztBl5kkDBbliPGn3ZxY6B0DH2tKdkP6b6K6RPMVUzrYr7CtWrVBYNQpKfvWR5psdAIMUprInr3bhxvbuJZoF4i1CciUpdk3daaMwf9ytinIhWbb3C3PF9TCWe8UrTeJXL-dgQD1igGsSFrnmx-KMEt2FNuBO4ZoLDJujo6zON0VoL-cG0kYPVTcMTPWDkQgP0pZJ_PV36fac&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(7).jpg"
       },
       {
         "width": 4032,
         "height": 3024,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uoy7EioIIye1Pki2Rc-L3DeIrvwh9FrebOn-_wnt_xzk4x8gjLMMy_iSI-4nxnYgThfADAi-KGDAyUsZWHZ33oODDP35xEqRibRKKtcZsJo7tceL_BqtGWN3OuAp3E3Cf9yakVZCIKEbheCuS_s97JkqX1wkr72DMJVbCh3KB0XB77alhMHAicAga1_GyVR09sqzAiNVf55JZiSBniOBCYAwZf6M4WDBd2pQS7tOr1B2z9cur6zrPM3hiU72bkmpB5Yskvl5grDqTaOEUjHBqk5HBlSKe4zIA7MlST46cSYv5iYPT9b5iRNXEUfCFE0iHb6S9UzZzqZQdNkujg_rhdW847XHZwguYjVPfDsqtSD25sW6lNAbaXjFD_s2YCL5AyPpxWfuGTzAGgBGszoVASsopUDTdChr5XFnmgrhChWJDN&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(8).jpg"
       }
     ],
-    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-v4CYfEcdnybWhHPHEAbLLb0Zzv8A15wpFJMvf3DT43JRK9IgXwzd1IbOUmAhh4987rKfrWaHtvM6vp3WG5Z8zt_8PWy2MpnUJz1oPEVMt8n_Q8TLZbY4LAgsR4Otwn3JsBsUfAAr0Vmoh-w9FKFReeoIBRgfER7iwlDmdht8BuLxZwFdDhkrkJiLE6nIss2v2R1YamPGjfPp9ks-leWTrSHpijIWP7Acjo_ZwIlP1yOHFkC0tgOLcmz1yVM_UPEgJUfo3L8Jd_WWewLwkaJzcNeojPUA4BMfzK7-zMrfHk_fCUhYtWXbvF-al42fgD45CH4CW4AYozp5jz6S8Fne0EyNRQaw66yaYepZzL_7BnRhIDcw3yrrWfj2QFS4KnDP6sB2aDE01IxxAbJKkU9sAqa50_bkxpTRDc7GChAQ1XpA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(3).jpg"
   },
   "website_config": {
     "theme": "premium-minimal",
