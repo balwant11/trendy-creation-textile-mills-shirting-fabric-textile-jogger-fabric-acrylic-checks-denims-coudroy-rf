@@ -49,35 +49,35 @@
       {
         "width": 4800,
         "height": 3600,
-        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(3).jpg"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/trendy1.jpg"
       },
       {
         "width": 1078,
         "height": 1834,
-        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(4).jpg"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/trendy6.jpg"
       },
       {
         "width": 1170,
         "height": 883,
-        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(5).jpg"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/trendy2.jpg"
       },
       {
         "width": 3024,
         "height": 4032,
-        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(6).jpg"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/trendy7.jpg"
       },
       {
         "width": 1080,
         "height": 1280,
-        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(7).jpg"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/trendy4.jpg"
       },
       {
         "width": 4032,
         "height": 3024,
-        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(8).jpg"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/trendy3.jpg"
       }
     ],
-    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/unnamed+(3).jpg"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/trendy1.jpg"
   },
   "website_config": {
     "theme": "premium-minimal",
